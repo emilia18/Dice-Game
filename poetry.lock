@@ -1,0 +1,17 @@
+[[package]]
+name = "choice"
+version = "0.1"
+description = "Easy request and response GUI for Python"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "9bec4c5b806730b7d421fbd0c205ac66c54b8443a9d3c65983687fdf605c74df"
+
+[metadata.files]
+choice = [
+    {file = "choice-0.1.tar.gz", hash = "sha256:0d7dd85021e14626eef72f077b2c937e83d296adc0d7f2eede587e2cfaf71721"},
+]
